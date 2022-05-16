@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there, I am Maxim 👋
 
-<!--
-**frenklee/frenklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior Fullstack Developer, who tries to understand how this dev thing works.
+
+[![name](https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1652666023~hmac=b03e0ab4df0400d64f4ee77c107dbcf7)](https://www.linkedin.com/in/maxim-li-b65b67232/)
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
