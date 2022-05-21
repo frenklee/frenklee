@@ -8,5 +8,5 @@ I am a Junior Fullstack Developer, who tries to understand how this dev thing wo
 - :world_map: Right now I am in South Korea
 - :bookmark_tabs: Plan to make a portfolio website 
 - :capital_abcd: Fluent in Russian and English. Know a bit of Korean. Next language is German
-- :airplane: Thinking about moving to Germany soon
+- :airplane: Thinking about moving to Germany
 - :joystick: Games, investments and music
